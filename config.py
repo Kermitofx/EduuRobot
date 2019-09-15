@@ -30,9 +30,9 @@ max_time = 60
 
 version = open('version.txt').read()
 
-logs = 123456789
+logs = 1223998042
 
-backups_chat = 123456789  # Put a 0, False or None to disable.
+backups_chat = 1223998042  # Put a 0, False or None to disable.
 backup_hours = ['00:00', '12:00']
 
 sudoers = [
