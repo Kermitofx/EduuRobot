@@ -3,7 +3,7 @@ import amanobot.aio
 import asyncio
 
 
-token = "TOKEN:HERE"
+token = "901147654:AAGcf3IQtuh9CXllVpO0f14jC8fU7fhPCnQ"
 
 
 loop = asyncio.get_event_loop()  # Do not change this
@@ -36,7 +36,7 @@ backups_chat = 123456789  # Put a 0, False or None to disable.
 backup_hours = ['00:00', '12:00']
 
 sudoers = [
-    123456789
+    684842099
 ]
 
 enabled_plugins = [
